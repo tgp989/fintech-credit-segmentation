@@ -151,7 +151,7 @@ Finalmente, se generaron diferentes representaciones gráficas para facilitar la
 ## Estructura del repositorio
 
 ```text
-Reto-4-Integracion-Multidimensional-Fintech/
+Integracion-Multidimensional-Fintech/
 │
 ├── README.md
 ├── Reto_4.ipynb
