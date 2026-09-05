@@ -151,7 +151,7 @@ Finalmente, se generaron diferentes representaciones gráficas para facilitar la
 ## Estructura del repositorio
 
 ```text
-Integracion-Multidimensional-Fintech/
+fintech-credit-segmentation/
 │
 ├── README.md
 ├── Reto_4.ipynb
