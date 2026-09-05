@@ -133,6 +133,8 @@ Finalmente, se generaron diferentes representaciones gráficas para facilitar la
 - Preaprobación vs. prenegación.
 - Municipios con mayor número de clientes por cluster.
 
+Los resultados se alojaron en el repositorio integracionMultidimensionalFintech y fueron desplegados en una página web utilizando GitHub Pages.
+
 ---
 
 ## Herramientas utilizadas
